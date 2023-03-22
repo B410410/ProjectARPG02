@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb63d145d8e38314b80be725cff413b9, type: 3}
+  m_Name: SkillDB
+  m_EditorClassIdentifier: 
+  defaultData:
+    name: "\u7121"
+    id: NA
+    aniNum: 1
+    cooldown: -1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 4f033cdd2b09f9a43b139729d09d002c, type: 3}
+    obj: {fileID: 0}
+  skillDatas:
+  - name: WS0000
+    id: WS0000
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 4b5c3887b0bad8548a4414947f05a7ba, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: WS0001
+    id: WS0001
+    aniNum: 1
+    cooldown: 5
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 3a88d46ed00b9214a8cc55ba6e67ab09, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: WS0002
+    id: WS0002
+    aniNum: 1
+    cooldown: 30
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 2a5c892bdd014164da633b8c6fd0f246, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: WS0003
+    id: WS0003
+    aniNum: 1
+    cooldown: 60
+    mpCost: 0
+    icon: {fileID: 21300000, guid: e32aad571b880e549a22b1cc2f2f84a2, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: 
+    id: 
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 7092324b93851a14c858530cca4a6b26, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: 
+    id: 
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 7092324b93851a14c858530cca4a6b26, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: 
+    id: 
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 7092324b93851a14c858530cca4a6b26, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: 
+    id: 
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 7092324b93851a14c858530cca4a6b26, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: "\u9023\u9396\u9583\u96FB"
+    id: MS0000
+    aniNum: 1
+    cooldown: 1
+    mpCost: 5
+    icon: {fileID: 21300000, guid: 7092324b93851a14c858530cca4a6b26, type: 3}
+    obj: {fileID: 7126236244666468177, guid: f106dccbad9f34446acd24274349007a, type: 3}
+  - name: "\u66B4\u98A8\u96EA"
+    id: MS0001
+    aniNum: 1
+    cooldown: 1
+    mpCost: 30
+    icon: {fileID: 21300000, guid: 6f98b3e70c3ad8a48a0396785dad48e8, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 56a2f21d4dbac0746a7a64b5b197f2ae, type: 3}
+  - name: 
+    id: MS0002
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: 9f69b220176e6964fbd87f5f158d45e3, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
+  - name: 
+    id: MS0003
+    aniNum: 1
+    cooldown: 1
+    mpCost: 0
+    icon: {fileID: 21300000, guid: b450d0b398880cb458f83d1a01b399ca, type: 3}
+    obj: {fileID: 5403333242573303650, guid: 989ac12611cc83c4f821de3218a6fc21, type: 3}
